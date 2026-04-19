@@ -12,7 +12,7 @@ I have started with x64 assembly on May 1, 2025.
 
 # What I am doing right now?
 
-I am working on a comprehensive document that explains the upstream glibc-malloc (release-tag v2.43). I have started in the last week of February 2026 and as of writing (April 19, 2026), I am still on it.
+I am working on a comprehensive document that explains the upstream glibc-malloc (release-tag v2.43). I have started in the last week of February 2026 and as of writing (April 19, 2026), I am still on it. The writeup can be found at [aggrawal-ankur/systems-dives](https://github.com/aggrawal-ankur/systems-dives/tree/main/glibc-malloc)
 
 # What are my future plans?
 
